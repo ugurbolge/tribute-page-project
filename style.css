@@ -1,0 +1,53 @@
+/* Tribute-page */
+html, body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    
+}
+#main{
+    margin:25px auto;
+    padding:10px;
+    border:0px solid;
+    border-radius:5px;
+    background:#eee;
+  }
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#img{
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+#img-div{
+    margin:-5px;
+    margin-top:50px;
+    width:100%;
+    border:5px solid white;
+    background:white;
+  }
+
+#img-caption{
+    margin: 15px;
+}
+#headline{
+    margin-top:50px;
+    text-align:left;
+}
+ul{
+    max-width:600px;
+    margin:-10px auto;
+    text-align:left;
+    padding: 10px;
+  }
+  li{
+    margin: 10px;
+}
+p{
+    margin: 20px;
+    padding-bottom: 20px;   
+}
+h3{
+    padding-bottom: 5px;
+}
